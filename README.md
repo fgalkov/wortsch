@@ -1,1 +1,1 @@
-# wortsch
+# wortsch-app
